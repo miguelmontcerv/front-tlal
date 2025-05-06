@@ -11,7 +11,7 @@ export default defineConfig({
     postcss,
   },
   plugins: [react()],
-  base: '/front-tlal/',
+  base: '/',
   resolve: {
     alias: [
       {
