@@ -108,7 +108,7 @@ function HeroHome() {
                 
                 {/* Referencia Video Link */}
                 <video ref={video} className="absolute w-full h-full" width="1920" height="1080" loop autoPlay controls>
-                  <source src="/videos/video.mp4" type="video/mp4" />
+                  <source src="../videos/video.mp4" type="video/mp4" />
                   Lo sentimos, el video no puede ser soportado por su navegador.
                 </video>
               </div>

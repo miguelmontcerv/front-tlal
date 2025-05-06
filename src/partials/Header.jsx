@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import logo_header from '../images/logo_completo.svg';
 
 function Header() {
 
@@ -22,8 +23,8 @@ function Header() {
           {/* Site branding */}
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
-            <Link to="/" className="block" aria-label="Cruip">
-              <img src="/logo_completo.svg" alt="Logo" className="w-20 h-20" />
+            <Link to="/front-tlal/" className="block" aria-label="Cruip">
+              <img src={logo_header} alt="Logo web" className="w-20 h-20" />
             </Link>
           </div>
 

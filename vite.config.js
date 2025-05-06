@@ -12,16 +12,6 @@ export default defineConfig({
   },
   plugins: [react()],
   base: '/front-tlal/',
-  resolve: {
-    alias: [
-      {
-        find: /^~.+/,
-        replacement: (val) => {
-          return val.replace(/^~/, "");
-        },
-      },
-    ],
-  },
   build: {
     commonjsOptions: {
       transformMixedEsModules: true,
