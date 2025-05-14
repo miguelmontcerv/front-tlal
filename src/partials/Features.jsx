@@ -35,8 +35,9 @@ function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Te ayudamos a hacer realidad tu sueño</h1>
-            <p className="text-xl text-gray-600">Nuestro objetivo es ser la guía para estudiar en México, desde encontrar la universidad perfecta, tramites de visa, hospedaje, diversión, viajes y mucho más.</p>
+            <h1 className="h2 mb-4">Somos la guía para estudiantes de intercambio en CDMX</h1>
+            <p className="text-xl text-gray-600">Generamos contenido para que vivas la mejor experiencia. </p>
+            <p className="text-xl text-gray-600">Desde encontrar la universidad perfecta, tramites de visa, hospedaje, diversión, viajes y mucho más.</p>
           </div>
 
           {/* Section content */}
@@ -46,7 +47,7 @@ function Features() {
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
                 <h3 className="h3 mb-3">¿Cómo lo hacemos?</h3>
-                <p className="text-xl text-gray-600">Te acompañamos en cada paso del proceso de intercambio, haciendo que tu experiencia sea más segura, divertida y sin preocupaciones .</p>
+                <p className="text-xl text-gray-600">Compartimos constantemente información en nuestro portal y redes sociales, que puede ayudarte en tu proceso de intercambio, haciendo que tu experiencia sea más segura, divertida y sin preocupaciones .</p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
@@ -92,7 +93,7 @@ function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Tu guía de trámites y seguros</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Consejos para trámites y seguros</div>
                     <div className="text-gray-600">Visa, residencia, seguro médico y más. Te acompañamos paso a paso para que no te pierdas en el proceso.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
