@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import Modal from '../utils/Modal';
 
 import HeroImage from '../images/hero-image-cdmx.png';
-import video_comercial from '../images/video.mp4';
+import video_comercial from '../images/video_comercial.mp4';
 
 function HeroHome() {
   const [videoModalOpen, setVideoModalOpen] = useState(false);
