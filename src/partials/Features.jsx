@@ -47,7 +47,7 @@ function Features() {
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
                 <h3 className="h3 mb-3">¿Cómo lo hacemos?</h3>
-                <p className="text-xl text-gray-600">Compartimos constantemente información en nuestro portal y redes sociales, que puede ayudarte en tu proceso de intercambio, haciendo que tu experiencia sea más segura, divertida y sin preocupaciones .</p>
+                <p className="text-xl text-gray-600">Compartimos constantemente información en nuestro portal y redes sociales, que puede ayudarte en tu proceso de intercambio, haciendo que tu experiencia sea más segura, divertida y sin preocupaciones.</p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">

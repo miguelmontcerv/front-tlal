@@ -33,11 +33,11 @@ function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4">Más de 200 estudiantes de 23 países han confiado en nosotros.</h2>
+            <h2 className="h2 mb-4">Queremos guiar a más de 200 estudiantes antes de que termine el año.</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">Haciendo que su intercambio en la capital mexicana fuera inolvidable.</p>
             <br/>
             <br/>
-            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Somos patners de distintas startups que harán más sencilla tu estancia en México.</p>
+            <p className="text-xl text-gray-600" data-aos="zoom-y-out">Buscamos ser patners de distintas startups que harán más sencilla tu estancia en México.</p>
           </div>
 
           {/* Items */}

@@ -40,7 +40,7 @@ function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-white mb-2">Ayúdanos a seguir conociendo qué necesitan los estudiantes como tú.</h3>
-                <p className="text-gray-300 text-lg mb-6">Estamos validando el mercado, queremos saber cuales son los problemas a los que te has enfrentado al momento de estudiar en México.</p>
+                <p className="text-gray-300 text-lg mb-6">Estamos validando el mercado, queremos saber cuáles son los problemas a los que te has enfrentado al momento de estudiar en México.</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
